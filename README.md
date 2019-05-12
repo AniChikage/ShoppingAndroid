@@ -1,2 +1,1 @@
-# ShoppingAndroid
-Online shopping system, android section
+# catering-partner
