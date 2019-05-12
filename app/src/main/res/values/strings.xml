@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">餐饮伙伴</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="home">首页</string>
+    <string name="shopbasket">购物车</string>
+    <string name="promotion">推广</string>
+    <string name="myorder">我的订单</string>
+    <string name="mine">我的</string>
+    <string name="rcvorder">今日订单</string>
+    <string name="refundorder">退款</string>
+
+    <string name="login">登录</string>
+    <string name="login_hint_username">手机号或用户名</string>
+    <string name="login_hint_password">密码</string>
+
+    <string name="underDev">工程师正在开发哦</string>
+
+    <string name="search">搜索商品</string>
+    <string name="totaldeliveryprice">运费:</string>
+
+    <string name="promotionlogo">产品推广</string>
+    <string name="addtobasket">加入购物车</string>
+    <string name="companyhint">供应商：</string>
+    <string name="yunfeihint">运费：</string>
+    <string name="addresshint">地址：</string>
+    <string name="gosearch">搜索</string>
+    <string name="refundalipayaccounthint">支付宝账号</string>
+    <string name="xieyi">点击同意商城《服务协议》</string>
+    <string name="reseetpwd">更新密码</string>
+    <string name="wuliushuoming">
+1.请用户在商品包装未被破坏前，进行数量验收；否则，商品数量缺失将无法退换赔偿。\n
+2.如遇商品腐败变质，请在退换时限内致电平台客服。饭店食堂用户，收货当日11:00前，家庭用户收货当日18:00前。\n
+3.平台客服15841486881</string>
+
+    <string name="fuwuxieyi">
+1.请用户在商品包装未被破坏前，进行数量验收；否则，商品数量缺失将无法退换赔偿。\n
+2.如遇商品腐败变质，请在退换时限内致电平台客服。饭店食堂用户，收货当日11:00前，家庭用户收货当日18:00前。\n
+3.平台客服15841486881</string>
+
+
+    <string name="zonghe">综合排序</string>
+    <string name="price">价格排序</string>
+    <string name="sales">销量排序</string>
+
+    <string name="wuliuhint"> 1、每日22：00前下单，饭店食堂用户次日上午9:30前送达；家庭用户次日下午17:00前送达附近超市。\n
+2、目前仅在本溪市城区范围内开展配送。城区外用户请致电平台客服电话15841486881，商定物流。\n
+3.当日送商品，详见商品详情。</string>
+    <string name="cuxiaomsg">促销说明：全场免物流费</string>
+
+    <string name="addordersuccess">添加订单成功，请在购物车中查看</string>
+    <string name="addorderfailed">添加订单失败</string>
+    <string name="delordersuccess">删除订单成功</string>
+    <string name="delorderfailed">删除订单失败</string>
+    <string name="delbasket">删除订单</string>
+    <string name="confirm">确认收货</string>
+    <string name="pay">支付</string>
+    <string name="comment">提交评价</string>
+    <string name="hasrcved">您已确认过收货</string>
+    <string name="hasrcvedsuccess">确认收货成功</string>
+    <string name="hasrcvedfailed">您已确认过收货</string>
+    <string name="maxword">评价不多于100字</string>
+    <string name="pleaseinputcomment">请填写评价</string>
+    <string name="commentsuccess">评价成功</string>
+    <string name="commentfailed">评价失败</string>
+    <string name="hascommented">您已经评价过</string>
+    <string name="todaymoney">今日收益</string>
+
+    <string name="reg_phone">手机号</string>
+    <string name="reg_password">密码</string>
+    <string name="reg_repeatpassword">重复密码</string>
+    <string name="reg_username">用户名(饭店用户请填写饭店名称)</string>
+    <string name="reg_realname">真实姓名</string>
+    <string name="reg_alipayaccount">支付宝账户</string>
+    <string name="reg_specific">具体地址</string>
+
+    <string name="prepwd">当前密码</string>
+    <string name="newpwd">新密码</string>
+    <string name="repeatnewpwd">重复新密码</string>
+    <string name="resetpwd">重置密码</string>
+    <string name="serverurl">http://47.92.74.241:80//catering_dev2.apk</string>
+
+    <string name="user_mainactivity_home">0</string>
+    <string name="user_mainactivity_basket">1</string>
+    <string name="user_mainactivity_promotion">2</string>
+    <string name="user_mainactivity_order">3</string>
+    <string name="user_mainactivity_mine">4</string>
+
+    <string name="useragreement">
+请您仔细阅读本协议；本协议是您与餐饮伙伴网站（网址：www.catering-partner.com以下简称本网站）拥有者（以下简称为餐饮伙伴）签订的关于餐饮伙伴网站服务等有关事项所订立的协议；您点击“同意并确定”按钮后，本协议即构成对双方有约束力的法律文件。\n
+1、本站服务的同意和确认。
+\n1.1  用户同意本协议全部条款并完成注册，才能成为本网站的正式用户。
+\n1.2  用户点击同意本协议后，即确认为用户确认本人具有相关的行为能力与权利能力（下单购物，阅读理解商品，物流说明等）,能够独立承担法律责任。若您未满18周岁，必须在合法监护人监护下使用本站。
+\n1.3  餐饮伙伴具有依法关闭用户账户，消除用户编辑内容，取消订单的权利。
+
+\n2、本网站服务。
+\n2.1  餐饮伙伴为用户提供互联网信息服务，用户使用时必须详细阅读本协议及本网站相关规定。
+\n2.2  本网站目前仅在辽宁省地域范围内提供相关服务。
+
+\n3、用户信息。
+\n3.1  用户注册本网站提供与填写的资料准确、真实、完整合法有效，如有变动，需及时更改。否则，由此引起的一切责任与后果由用户自行承担。餐饮伙伴具有因此停止用户使用本网站服务的权利。
+\n3.2  用户在本网站的所有注册信息，本网站将予以严格保密，除法律法规另有规定。
+\n3.3  用户注册成功后，用户名和密码应防止泄露；若发现任何非法使用用户账号和密码，应立即向本站客服通知，并向公安机关报案。
+\n3.4  餐饮伙伴拥有通过短信电话等形式，向本站注册用户发送订单、物流、商品促销等信息的权利。
+\n3.5  餐饮伙伴有权使用用户注册信息，登陆用户账号，进行保全证据。
+\n3.6  用户不得将在本站注册的账户借给他人使用，否则用户自行承担由此产生的全部责任与后果。
+
+\n4、用户在本网站的言行义务。
+\n4.1  用户在网站一切言行，须依法严格遵守以下义务：
+\n（1）不得传输或发表：煽动抗拒、破坏宪法和法律、行政法规实施的言论，煽动颠覆国家政权，推翻社会主义制度的言论，煽动分裂国家、破坏国家统一的言论，煽动民族仇恨、民族歧视、破坏民族团结的言论。
+\n（2）从中国大陆向境外传输资料信息时必须符合中国有关法规。
+\n（3）不得利用本站从事洗钱、窃取商业秘密、窃取个人信息等违法犯罪活动。
+\n（4）不得干扰本站的正常运转，不得侵入本站及国家计算机信息系统。
+\n（5）不得传输或发表任何违法犯罪的、骚扰性的、中伤他人的、辱骂性的、恐吓性的、伤害性的、庸俗的、淫秽的、不文明的等信息资料。
+\n（6）不得传输或发表损害国家社会公共利益和涉及国家安全的信息资料或言论。
+\n（7）不得教唆他人从事本条禁止的行为。
+\n（8）不得利用本站注册的账户进行牟利性经营活动。
+\n（9）不得发布任何侵犯他人著作权、商标权等知识产权或合法权利的内容。
+\n4.2  本网站有权独自删除本站内不符合法律政策及虚假信息的权利。
+\n4.3  用户违反以上规定时，本网站有权关闭用户账号，一切责任及后果，用户自行承担。
+
+
+
+\n5、商品和服务信息。
+\n本网站的商品和服务信息可能随时变动，本网站尽力做到及时传输；但由于互联网技术因素等客观原因，本网站信息可能有一定的滞后性，请用户给予谅解。
+
+\n6、订单。
+\n6.1  在您在本网站下单时，您一定仔细阅读并确认商品信息、用户信息、物流信息等。收货人与用户本人不一致时，收货人的行为和意思表示视为用户本人的行为和意思表示，用户对收货人的行为及意思表示承担法律责任。
+\n6.2  本网站上销售方展示的商品和商品信息仅是交易信息的发布,您下单时，必须填写您选购的商品的数量，价款、收货人、联系方式、收货地址等内容；系统生成的订单信息是计算机信息，系统根据您填写的内容自动生成的数据，仅是您向销售方发出的交易诉求，只有销售方将您订购的商品从仓库实际直接向您发出时，方视为您与销售方之间就实际向您发出的商品建立了交易关系。您可以随时通过本网站客服电话或销售方电话，查询您的订单状态。
+\n6.3  由于受市场变化，自然灾害等难以控制因素和不可抗力的影响，本网站无法保证您订单中的商品都会有货，如您订单中的商品发生缺货，您有权利取消订单。
+
+\n7、物流配送。
+\n7.1  您下单时请仔细阅读商品物流说明，所有本站上列出的送货时间为参考时间，参考时间是根据库存、正常处理过程和送货时间、收货地址的基础上估计得出的。
+\n7.2  因以下情况造成订单延迟或无法配送，本网站和销售方不承担延迟配送的责任：
+\n（1）用户提供的地址错误或不详等原因造成的。
+\n（2）货物送达后无人签收，导致无法配送或延迟配送的。
+\n（3）情势变更因素导致的。
+\n（4）自然灾害、交通堵塞、戒严、突发战争等不可抗力因素导致的。
+
+\n8、用户发表本网站的任何信息内容，餐饮伙伴均有权使用。
+
+\n9、餐饮伙伴是本网站的制作者，拥有网站内容的著作权与合法权利，受到国家法律保护。餐饮伙伴有权修改本协议及本网站内容，无须另行通知用户。
+
+\n10、餐饮伙伴不担保本网站的全部信息没有病毒。如因无法控制的原因使本站系统崩溃导致您无法使用本网站，餐饮伙伴不承担任何责任。
+
+\n11、如缔约方对就本协议发生争议，双方应协商解决；协商不成时，任何一方有权向有管辖权的人民法院依法起诉。
+
+\n12、本溪餐饮伙伴电子商务有限公司是本网站的拥有者。
+
+\n13、  您点击本协议下方的“同意并继续”按钮，视为您完全接受本协议。再次提醒您点击同意前，您已经知悉并同意本协议全部内容。
+</string>
+</resources>

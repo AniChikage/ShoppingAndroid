@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cateringpartner.cyhb">
+
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-feature android:name="android.hardware.camera"/>
+    <uses-feature android:name="android.hardware.camera.autofocus"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <uses-permission android:name="android.permission.WRITE_CONTACTS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+
+
+    <application
+        android:name="android.support.multidex.MultiDexApplication"
+        android:allowBackup="true"
+        android:allowClearUserData="false"
+        android:process="system"
+        android:icon="@drawable/navigator"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity
+            android:name="com.cateringpartner.cyhb.main.MainActivity"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind">
+        </activity>
+        <activity
+            android:name="com.alipay.sdk.auth.AuthActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind">
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.test.TestActivity"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.goodDetail.shopGoodDetail"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.setting.ResetPwd"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.widget.CheckVersion"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.test.MainActivity"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.specificCategory.CategoryDetail"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.widget.LoginActivity"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.widget.Welcome"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.goodDetail.goodDetail"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.newpay.Payment"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.myorder.ConfirmAndComment"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.setting.SettingActivity"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.newsetting.Mysetting"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.newregister.Myregister"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.register.RegisterShopActivity"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.register.RegisterUserActivity"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.main.MainActivityShop"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.main.MainActivityAdministrator"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.promotion.PromotionDetail"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.specificCategory.SearchGood"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.specificCategory.GoodByCompany"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.cateringpartner.cyhb.refund.Refund"
+            android:label="@string/app_name">
+
+        </activity>
+
+
+    </application>
+
+</manifest>
